@@ -2,6 +2,7 @@
 .github
 coverage
 src
+dist/report.html
 .eslintignore
 .eslintrc.js
 .gitattributes
