@@ -7,7 +7,7 @@ const ANALYZE_BUILD = process.env.ANALYZE_BUILD === '1';
 
 module.exports = {
   mode: 'production',
-  entry: path.resolve(__dirname, './src/index.ts'),
+  entry: path.resolve(__dirname, './index.ts'),
   target: 'node',
   externals: [nodeExternals()],
   output: {

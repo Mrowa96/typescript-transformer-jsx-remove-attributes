@@ -1,5 +1,5 @@
 import { transpileModule, JsxEmit } from 'typescript';
-import { removeJsxAttributesTransformer } from '../../src/index';
+import { removeJsxAttributesTransformer } from '../../index';
 
 export default function transform(source: string, attributes: string[]): string {
   return transpileModule(source, {
