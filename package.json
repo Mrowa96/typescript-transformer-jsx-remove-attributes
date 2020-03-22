@@ -1,11 +1,11 @@
 {
   "name": "typescript-transformer-jsx-remove-attributes",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "TypeScript transformer which will remove any jsx attributes.",
   "author": "Paweł Mrowiec <work@pawel-mrowiec.pl>",
   "license": "MIT",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/src/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mrowa96/typescript-transformer-jsx-remove-attributes.git"
