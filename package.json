@@ -1,6 +1,6 @@
 {
   "name": "typescript-transformer-jsx-remove-attributes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TypeScript transformer which will remove any jsx attributes.",
   "author": "Paweł Mrowiec <work@pawel-mrowiec.pl>",
   "license": "MIT",
